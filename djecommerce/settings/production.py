@@ -1,7 +1,7 @@
 from .base import *
 
 #DEBUG = True
-ALLOWED_HOSTS = [https://biii.azurewebsites.net]
+ALLOWED_HOSTS = [https://bike1.azurewebsites.net]
 
 
 
